@@ -1,6 +1,18 @@
 # EFI-ThinkCentre-M720Q
 Hackintosh EFI OpenCore Backup for Lenovo ThinkCentre Tiny M720Q
 
+Specs:
+- Processor i5-8400T
+- iGPU UHD630
+- Ram 2x8GB
+- Storage M.2 NVME 120GB + Sata 120GB (Windows)
+- Wifi & Bluetooth AC3165
+
+Working:
+- All, including Dual Monitor via HDMI & VGA (DP to VGA)
+
+Issue:
+- Bluetooth sometimes problem when WiFi On
+
 note:
-- EFI-1 is only backup, please use EFI
 - don't forget to generate your SMBIOS
