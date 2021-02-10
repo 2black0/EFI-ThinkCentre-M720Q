@@ -15,4 +15,5 @@ Issue:
 - Bluetooth sometimes problem when WiFi On
 
 note:
-- don't forget to generate your SMBIOS
+- don't forget to generate your own SMBIOS
+- OC 0.6.6
