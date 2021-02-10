@@ -9,7 +9,7 @@ Specs:
 - Wifi & Bluetooth AC3165
 
 Working:
-- All, including Dual Monitor via HDMI & VGA (DP to VGA)
+- All, including Dual Monitor via HDMI & DP
 
 Issue:
 - Bluetooth sometimes problem when WiFi On
