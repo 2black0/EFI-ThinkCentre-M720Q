@@ -12,7 +12,7 @@ Working:
 - All, including Dual Monitor via HDMI & DP
 
 Issue:
-- Bluetooth sometimes problem when WiFi On
+- Bluetooth sometimes glitch when WiFi On
 
 note:
 - don't forget to generate your own SMBIOS
