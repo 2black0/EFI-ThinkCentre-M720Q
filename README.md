@@ -5,7 +5,7 @@ Specs:
 - Processor i5-8400T
 - iGPU UHD630
 - Ram 2x8GB
-- Storage M.2 NVME 120GB + Sata 120GB (Windows)
+- Storage M.2 NVME 120GB (Hackintosh) + Sata 120GB (Windows)
 - Wifi & Bluetooth AC3165
 
 Working:
@@ -16,5 +16,5 @@ Issue:
 
 note:
 - don't forget to generate your own SMBIOS
-- OC 0.6.6
+- Latest Version OpenCore 0.6.7
 - Working in Catalina & Big Sur
