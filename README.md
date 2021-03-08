@@ -9,10 +9,12 @@ Specs:
 - Wifi & Bluetooth AC3165
 
 Working:
-- All, including Dual Monitor via HDMI & VGA (DP to VGA)
+- All, including Dual Monitor via HDMI & DP
 
 Issue:
-- Bluetooth sometimes problem when WiFi On
+- Bluetooth sometimes glitch when WiFi On
 
 note:
-- don't forget to generate your SMBIOS
+- don't forget to generate your own SMBIOS
+- OC 0.6.6
+- Working in Catalina & Big Sur
